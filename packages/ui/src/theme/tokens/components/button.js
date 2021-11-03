@@ -7,7 +7,7 @@ module.exports = {
     value: '{components.fieldcontrol.transitionDuration.value}',
   },
   fontSize: { value: '{components.fieldcontrol.fontSize.value}' },
-  lineHeight: { value: '{components.fieldcontrol.fontSize.value}' },
+  lineHeight: { value: '{components.fieldcontrol.lineHeight.value}' },
   paddingBlockStart: {
     value: '{components.fieldcontrol.paddingBlockStart.value}',
   },
@@ -20,15 +20,15 @@ module.exports = {
   paddingInlineEnd: {
     value: '{components.fieldcontrol.paddingInlineEnd.value}',
   },
-  borderColor: { value: '{colors.brand.primary.20.value}' },
+  borderColor: { value: '{colors.border.primary.value}' },
   borderWidth: { value: '{borderWidths.small.value}' },
   borderStyle: { value: 'solid' },
   color: { value: '{colors.brand.primary.80.value}' },
 
   _hover: {
     color: { value: '{colors.font.focus.value}' },
-    backgroundColor: { value: '{colors.brand.primary.10.value}' },
-    borderColor: { value: '{colors.brand.primary.60.value}' },
+    backgroundColor: { value: '{colors.brand.primary.100.value}' },
+    borderColor: { value: '{colors.brand.primary.700.value}' },
   },
   _focus: {
     color: { value: '{colors.font.focus.value}' },
@@ -36,9 +36,9 @@ module.exports = {
     boxShadow: { value: '{components.fieldcontrol.focus.boxShadow.value}' },
   },
   _active: {
-    color: { value: '{colors.font.inverse.value}' },
-    backgroundColor: { value: '{colors.brand.primary.100.value}' },
-    borderColor: { value: '{colors.brand.primary.100.value}' },
+    color: { value: '{colors.font.active.value}' },
+    backgroundColor: { value: '{colors.brand.primary.200.value}' },
+    borderColor: { value: '{colors.brand.primary.800.value}' },
   },
   _loading: {
     color: { value: '{colors.font.tertiary.value}' },
@@ -53,25 +53,34 @@ module.exports = {
 
   // variations
   primary: {
-    borderWidth: { value: 0 },
-    backgroundColor: { value: '{colors.brand.primary.80.value}' },
+    borderWidth: { value: '{borderWidths.small.value}' },
+    borderColor: { value: 'transparent' },
+    backgroundColor: { value: '{colors.brand.primary.600.value}' },
     color: { value: '{colors.font.inverse.value}' },
     _disabled: {
+      borderColor: { value: 'transparent' },
       backgroundColor: { value: '{colors.background.tertiary.value}' },
       color: { value: '{colors.font.tertiary.value}' },
     },
     _loading: {
+      borderColor: { value: 'transparent' },
       backgroundColor: { value: '{colors.background.tertiary.value}' },
       color: { value: '{colors.font.tertiary.value}' },
     },
     _hover: {
-      backgroundColor: { value: '{colors.brand.primary.90.value}' },
+      borderColor: { value: 'transparent' },
+      backgroundColor: { value: '{colors.brand.primary.700.value}' },
+      color: { value: '{colors.font.inverse.value}' },
     },
     _focus: {
-      backgroundColor: { value: '{colors.brand.primary.90.value}' },
+      borderColor: { value: 'transparent' },
+      backgroundColor: { value: '{colors.brand.primary.800.value}' },
+      color: { value: '{colors.font.inverse.value}' },
     },
     _active: {
-      backgroundColor: { value: '{colors.brand.primary.100.value}' },
+      borderColor: { value: 'transparent' },
+      backgroundColor: { value: '{colors.brand.primary.900.value}' },
+      color: { value: '{colors.font.inverse.value}' },
     },
   },
 
@@ -81,6 +90,7 @@ module.exports = {
     color: { value: '{colors.font.interactive.value}' },
     _hover: {
       color: { value: '{colors.font.hover.value}' },
+      backgroundColor: { value: '{colors.brand.primary.100.value}' },
     },
     _focus: {
       color: { value: '{colors.font.focus.value}' },

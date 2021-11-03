@@ -13,18 +13,22 @@ module.exports = {
   // Variations
   info: {
     backgroundColor: { value: '{colors.background.info.value}' },
+    color: { value: '{colors.font.info.value}' },
   },
 
   warning: {
     backgroundColor: { value: '{colors.background.warning.value}' },
+    color: { value: '{colors.font.warning.value}' },
   },
 
   success: {
     backgroundColor: { value: '{colors.background.success.value}' },
+    color: { value: '{colors.font.success.value}' },
   },
 
   error: {
     backgroundColor: { value: '{colors.background.error.value}' },
+    color: { value: '{colors.font.error.value}' },
   },
 
   // Sizes

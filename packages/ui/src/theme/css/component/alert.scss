@@ -5,18 +5,22 @@
 
   &[data-variation='info'] {
     background-color: var(--amplify-components-alert-info-background-color);
+    color: var(--amplify-components-alert-info-color);
   }
 
   &[data-variation='error'] {
     background-color: var(--amplify-components-alert-error-background-color);
+    color: var(--amplify-components-alert-error-color);
   }
 
   &[data-variation='warning'] {
     background-color: var(--amplify-components-alert-warning-background-color);
+    color: var(--amplify-components-alert-warning-color);
   }
 
   &[data-variation='success'] {
     background-color: var(--amplify-components-alert-success-background-color);
+    color: var(--amplify-components-alert-success-color);
   }
 }
 

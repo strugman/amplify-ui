@@ -11,18 +11,22 @@
 
   &[data-variation='info'] {
     background-color: var(--amplify-components-badge-info-background-color);
+    color: var(--amplify-components-badge-info-color);
   }
 
   &[data-variation='error'] {
     background-color: var(--amplify-components-badge-error-background-color);
+    color: var(--amplify-components-badge-error-color);
   }
 
   &[data-variation='warning'] {
     background-color: var(--amplify-components-badge-warning-background-color);
+    color: var(--amplify-components-badge-warning-color);
   }
 
   &[data-variation='success'] {
     background-color: var(--amplify-components-badge-success-background-color);
+    color: var(--amplify-components-badge-success-color);
   }
 
   &[data-size='small'] {
