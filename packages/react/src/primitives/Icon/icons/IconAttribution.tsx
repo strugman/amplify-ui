@@ -26,7 +26,7 @@ export const IconAttribution = (props) => {
         />
         <path
           d="M12 8C12.8284 8 13.5 7.32843 13.5 6.5C13.5 5.67157 12.8284 5 12 5C11.1716 5 10.5 5.67157 10.5 6.5C10.5 7.32843 11.1716 8 12 8Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

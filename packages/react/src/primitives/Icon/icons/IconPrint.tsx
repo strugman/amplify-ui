@@ -26,7 +26,7 @@ export const IconPrint = (props) => {
         />
         <path
           d="M18 12.5C18.5523 12.5 19 12.0523 19 11.5C19 10.9477 18.5523 10.5 18 10.5C17.4477 10.5 17 10.9477 17 11.5C17 12.0523 17.4477 12.5 18 12.5Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

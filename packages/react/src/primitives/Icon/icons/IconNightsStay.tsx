@@ -26,7 +26,7 @@ export const IconNightsStay = (props) => {
         />
         <path
           d="M7 16H6.82C6.4 14.84 5.3 14 4 14C2.34 14 1 15.34 1 17C1 18.66 2.34 20 4 20C4.62 20 6.49 20 7 20C8.1 20 9 19.1 9 18C9 16.9 8.1 16 7 16Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

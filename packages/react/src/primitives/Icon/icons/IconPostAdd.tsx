@@ -26,11 +26,11 @@ export const IconPostAdd = (props) => {
         />
         <path
           d="M19 2H17V5H14C14.01 5.01 14 7 14 7H17V9.99C17.01 10 19 9.99 19 9.99V7H22V5H19V2Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M15 9H7V11H15V9Z" fill="black" />
-        <path d="M7 12V14H15V12H12H7Z" fill="black" />
-        <path d="M15 15H7V17H15V15Z" fill="black" />
+        <path d="M15 9H7V11H15V9Z" fill="currentColor" />
+        <path d="M7 12V14H15V12H12H7Z" fill="currentColor" />
+        <path d="M15 15H7V17H15V15Z" fill="currentColor" />
       </svg>
     </View>
   );

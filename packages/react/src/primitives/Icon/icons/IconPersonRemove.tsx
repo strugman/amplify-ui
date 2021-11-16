@@ -26,9 +26,9 @@ export const IconPersonRemove = (props) => {
         />
         <path
           d="M2 18V20H18V18C18 15.34 12.67 14 10 14C7.33 14 2 15.34 2 18ZM4 18C4.2 17.29 7.3 16 10 16C12.69 16 15.77 17.28 16 18H4Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M23 10H17V12H23V10Z" fill="black" />
+        <path d="M23 10H17V12H23V10Z" fill="currentColor" />
       </svg>
     </View>
   );

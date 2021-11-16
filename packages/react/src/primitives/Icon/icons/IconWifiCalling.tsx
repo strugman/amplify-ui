@@ -26,7 +26,7 @@ export const IconWifiCalling = (props) => {
         />
         <path
           d="M22 4.95C21.79 4.78 19.67 3 16.5 3C13.32 3 11.21 4.78 11 4.95L16.5 12L22 4.95Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

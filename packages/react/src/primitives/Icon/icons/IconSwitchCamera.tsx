@@ -26,7 +26,7 @@ export const IconSwitchCamera = (props) => {
         />
         <path
           d="M15 11H9V8.5L5.5 12L9 15.5V13H15V15.5L18.5 12L15 8.5V11Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

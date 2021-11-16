@@ -24,7 +24,10 @@ export const IconQuickreply = (props) => {
           d="M4 17.17V4H20V10H22V4C22 2.9 21.1 2 20 2H4C2.9 2 2.01 2.9 2.01 4L2 22L6 18H15V16H5.17L4 17.17Z"
           fill="currentColor"
         />
-        <path d="M22.5 16H20.3L22 12H17V18H19V23L22.5 16Z" fill="black" />
+        <path
+          d="M22.5 16H20.3L22 12H17V18H19V23L22.5 16Z"
+          fill="currentColor"
+        />
       </svg>
     </View>
   );

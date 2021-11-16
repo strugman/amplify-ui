@@ -26,7 +26,7 @@ export const IconBrowserNotSupported = (props) => {
         />
         <path
           d="M3.21995 3.31982L1.94995 4.58982L2.99995 5.63982V17.9998C2.99995 19.0998 3.89995 19.9998 4.99995 19.9998H17.36L19.42 22.0598L20.69 20.7898L3.21995 3.31982ZM15 17.9998H4.99995V7.63982L15.36 17.9998H15Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

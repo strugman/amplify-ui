@@ -26,11 +26,11 @@ export const IconStreetview = (props) => {
         />
         <path
           d="M18 11C20.7614 11 23 8.76142 23 6C23 3.23858 20.7614 1 18 1C15.2386 1 13 3.23858 13 6C13 8.76142 15.2386 11 18 11Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M11.5 6C11.5 4.92 11.77 3.9 12.24 3H5C3.9 3 3 3.9 3 5V19C3 19.55 3.23 20.05 3.59 20.41L13.41 10.59C12.23 9.42 11.5 7.8 11.5 6Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

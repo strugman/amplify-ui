@@ -26,7 +26,7 @@ export const IconGolfCourse = (props) => {
         />
         <path
           d="M17 5.92L9 2V20H7V18.27C5.21 18.62 4 19.26 4 20C4 21.1 6.69 22 10 22C13.31 22 16 21.1 16 20C16 19.01 13.84 18.19 11 18.03V8.98L17 5.92Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

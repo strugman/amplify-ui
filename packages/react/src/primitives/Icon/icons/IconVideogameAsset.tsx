@@ -26,11 +26,11 @@ export const IconVideogameAsset = (props) => {
         />
         <path
           d="M14.5 15C15.3284 15 16 14.3284 16 13.5C16 12.6716 15.3284 12 14.5 12C13.6716 12 13 12.6716 13 13.5C13 14.3284 13.6716 15 14.5 15Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M18.5 12C19.3284 12 20 11.3284 20 10.5C20 9.67157 19.3284 9 18.5 9C17.6716 9 17 9.67157 17 10.5C17 11.3284 17.6716 12 18.5 12Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

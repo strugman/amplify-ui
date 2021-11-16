@@ -26,19 +26,19 @@ export const IconSportsGolf = (props) => {
         />
         <path
           d="M10 9C10.5523 9 11 8.55228 11 8C11 7.44772 10.5523 7 10 7C9.44772 7 9 7.44772 9 8C9 8.55228 9.44772 9 10 9Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M14 9C14.5523 9 15 8.55228 15 8C15 7.44772 14.5523 7 14 7C13.4477 7 13 7.44772 13 8C13 8.55228 13.4477 9 14 9Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M12 7C12.5523 7 13 6.55228 13 6C13 5.44772 12.5523 5 12 5C11.4477 5 11 5.44772 11 6C11 6.55228 11.4477 7 12 7Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M7 19H9C10.1 19 11 19.9 11 21V22H13V21C13 19.9 13.9 19 15 19H17V17H7V19Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

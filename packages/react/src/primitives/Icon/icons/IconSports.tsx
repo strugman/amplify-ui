@@ -26,7 +26,7 @@ export const IconSports = (props) => {
         />
         <path
           d="M11 14C12.1046 14 13 13.1046 13 12C13 10.8954 12.1046 10 11 10C9.89543 10 9 10.8954 9 12C9 13.1046 9.89543 14 11 14Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

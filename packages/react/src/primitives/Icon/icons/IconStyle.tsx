@@ -26,11 +26,11 @@ export const IconStyle = (props) => {
         />
         <path
           d="M11 10C11.5523 10 12 9.55228 12 9C12 8.44772 11.5523 8 11 8C10.4477 8 10 8.44772 10 9C10 9.55228 10.4477 10 11 10Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M5.87988 19.7502C5.87988 20.8502 6.77988 21.7502 7.87988 21.7502H9.32988L5.87988 13.4102V19.7502Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

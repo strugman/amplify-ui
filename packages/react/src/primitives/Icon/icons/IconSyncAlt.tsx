@@ -21,7 +21,7 @@ export const IconSyncAlt = (props) => {
         xmlns="http://www.w3.org/2000/svg"
       >
         <path d="M22 8L18 4V7H3V9H18V12L22 8Z" fill="currentColor" />
-        <path d="M2 16L6 20V17H21V15H6V12L2 16Z" fill="black" />
+        <path d="M2 16L6 20V17H21V15H6V12L2 16Z" fill="currentColor" />
       </svg>
     </View>
   );

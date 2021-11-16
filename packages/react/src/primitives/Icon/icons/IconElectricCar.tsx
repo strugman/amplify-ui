@@ -26,13 +26,13 @@ export const IconElectricCar = (props) => {
         />
         <path
           d="M7.5 12C8.32843 12 9 11.3284 9 10.5C9 9.67157 8.32843 9 7.5 9C6.67157 9 6 9.67157 6 10.5C6 11.3284 6.67157 12 7.5 12Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M16.5 12C17.3284 12 18 11.3284 18 10.5C18 9.67157 17.3284 9 16.5 9C15.6716 9 15 9.67157 15 10.5C15 11.3284 15.6716 12 16.5 12Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M7 20H11V18L17 21H13V23L7 20Z" fill="black" />
+        <path d="M7 20H11V18L17 21H13V23L7 20Z" fill="currentColor" />
       </svg>
     </View>
   );

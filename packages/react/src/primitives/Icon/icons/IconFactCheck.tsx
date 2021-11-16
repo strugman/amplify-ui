@@ -30,11 +30,11 @@ export const IconFactCheck = (props) => {
           fill-rule="evenodd"
           clip-rule="evenodd"
           d="M19.41 10.42L17.99 9L14.82 12.17L13.41 10.75L12 12.16L14.82 15L19.41 10.42Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M10 7H5V9H10V7Z" fill="black" />
-        <path d="M10 11H5V13H10V11Z" fill="black" />
-        <path d="M10 15H5V17H10V15Z" fill="black" />
+        <path d="M10 7H5V9H10V7Z" fill="currentColor" />
+        <path d="M10 11H5V13H10V11Z" fill="currentColor" />
+        <path d="M10 15H5V17H10V15Z" fill="currentColor" />
       </svg>
     </View>
   );

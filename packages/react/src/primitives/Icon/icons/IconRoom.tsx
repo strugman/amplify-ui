@@ -26,7 +26,7 @@ export const IconRoom = (props) => {
         />
         <path
           d="M12 11.5C13.3807 11.5 14.5 10.3807 14.5 9C14.5 7.61929 13.3807 6.5 12 6.5C10.6193 6.5 9.5 7.61929 9.5 9C9.5 10.3807 10.6193 11.5 12 11.5Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

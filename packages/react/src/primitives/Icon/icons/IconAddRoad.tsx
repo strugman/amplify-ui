@@ -24,11 +24,11 @@ export const IconAddRoad = (props) => {
           d="M20 18V15H18V18H15V20H18V23H20V20H23V18H20Z"
           fill="currentColor"
         />
-        <path d="M20 4H18V13H20V4Z" fill="black" />
-        <path d="M6 4H4V20H6V4Z" fill="black" />
-        <path d="M13 4H11V8H13V4Z" fill="black" />
-        <path d="M13 10H11V14H13V10Z" fill="black" />
-        <path d="M13 16H11V20H13V16Z" fill="black" />
+        <path d="M20 4H18V13H20V4Z" fill="currentColor" />
+        <path d="M6 4H4V20H6V4Z" fill="currentColor" />
+        <path d="M13 4H11V8H13V4Z" fill="currentColor" />
+        <path d="M13 10H11V14H13V10Z" fill="currentColor" />
+        <path d="M13 16H11V20H13V16Z" fill="currentColor" />
       </svg>
     </View>
   );

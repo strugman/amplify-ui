@@ -26,11 +26,11 @@ export const IconFlipCameraAndroid = (props) => {
         />
         <path
           d="M8 10V8H5.09C6.47 5.61 9.05 4 12 4C15.72 4 18.85 6.56 19.74 10H21.8C20.87 5.44 16.84 2 12 2C8.73 2 5.82 3.58 4 6.01V4H2V10H8Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M16 14V16H18.91C17.53 18.39 14.95 20 12 20C8.27995 20 5.14995 17.44 4.25995 14H2.19995C3.12995 18.56 7.15995 22 12 22C15.27 22 18.18 20.42 20 17.99V20H22V14H16Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

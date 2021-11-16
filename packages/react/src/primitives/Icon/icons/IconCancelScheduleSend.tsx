@@ -26,7 +26,7 @@ export const IconCancelScheduleSend = (props) => {
         />
         <path
           d="M18.27 14.0298L16.5 15.7898L14.73 14.0298L14.03 14.7298L15.79 16.4998L14.03 18.2698L14.73 18.9698L16.5 17.2098L18.27 18.9698L18.97 18.2698L17.21 16.4998L18.97 14.7298L18.27 14.0298Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

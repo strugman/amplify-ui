@@ -26,11 +26,11 @@ export const IconDeck = (props) => {
         />
         <path
           d="M4.14018 12L2.18018 12.37L3.00018 16.74V22H5.00018L5.02018 18H7.00018V22H9.00018V16H4.90018L4.14018 12Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M19.1 16H15V22H17V18H18.98L19 22H21V16.74L21.82 12.37L19.86 12L19.1 16Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

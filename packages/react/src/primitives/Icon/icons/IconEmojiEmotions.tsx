@@ -26,15 +26,15 @@ export const IconEmojiEmotions = (props) => {
         />
         <path
           d="M8.5 11C9.32843 11 10 10.3284 10 9.5C10 8.67157 9.32843 8 8.5 8C7.67157 8 7 8.67157 7 9.5C7 10.3284 7.67157 11 8.5 11Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M12 18C14.28 18 16.22 16.34 17 14H7C7.78 16.34 9.72 18 12 18Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M11.99 2C6.47 2 2 6.48 2 12C2 17.52 6.47 22 11.99 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 11.99 2ZM12 20C7.58 20 4 16.42 4 12C4 7.58 7.58 4 12 4C16.42 4 20 7.58 20 12C20 16.42 16.42 20 12 20Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

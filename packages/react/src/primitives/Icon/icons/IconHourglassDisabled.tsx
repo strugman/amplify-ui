@@ -26,7 +26,7 @@ export const IconHourglassDisabled = (props) => {
         />
         <path
           d="M2.1 2.1001L0.690002 3.5101L9.59 12.4101L6 16.0001L6.01 16.0101H6V22.0001H18V20.8301L20.49 23.3201L21.9 21.9101L2.1 2.1001ZM16 20.0001H8V16.5001L10.84 13.6601L16 18.8301V20.0001Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

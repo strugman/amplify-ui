@@ -26,11 +26,11 @@ export const IconInsights = (props) => {
         />
         <path
           d="M15 9L15.94 6.93L18 6L15.94 5.07L15 3L14.08 5.07L12 6L14.08 6.93L15 9Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M3.5 11L4 9L6 8.5L4 8L3.5 6L3 8L1 8.5L3 9L3.5 11Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

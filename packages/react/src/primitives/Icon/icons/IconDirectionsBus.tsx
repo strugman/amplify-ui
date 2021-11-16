@@ -26,11 +26,11 @@ export const IconDirectionsBus = (props) => {
         />
         <path
           d="M8.5 16C9.32843 16 10 15.3284 10 14.5C10 13.6716 9.32843 13 8.5 13C7.67157 13 7 13.6716 7 14.5C7 15.3284 7.67157 16 8.5 16Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M15.5 16C16.3284 16 17 15.3284 17 14.5C17 13.6716 16.3284 13 15.5 13C14.6716 13 14 13.6716 14 14.5C14 15.3284 14.6716 16 15.5 16Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

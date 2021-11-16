@@ -24,7 +24,7 @@ export const IconDoubleArrow = (props) => {
           d="M15.5 5H11L16 12L11 19H15.5L20.5 12L15.5 5Z"
           fill="currentColor"
         />
-        <path d="M8.5 5H4L9 12L4 19H8.5L13.5 12L8.5 5Z" fill="black" />
+        <path d="M8.5 5H4L9 12L4 19H8.5L13.5 12L8.5 5Z" fill="currentColor" />
       </svg>
     </View>
   );

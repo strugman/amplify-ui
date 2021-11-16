@@ -21,7 +21,7 @@ export const ${iconName} = (props) => {
       className={classNames(ComponentClassNames.Icon, className)}
       {...rest}
     >
-      ${source.replace('black', 'currentColor')}
+      ${source.replace(/black/gi, 'currentColor')}
     </View>
   );
 }

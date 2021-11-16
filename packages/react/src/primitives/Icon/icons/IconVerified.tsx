@@ -26,7 +26,7 @@ export const IconVerified = (props) => {
         />
         <path
           d="M10.09 13.7501L7.77001 11.4201L6.29001 12.9101L10.09 16.7201L17.43 9.36012L15.95 7.87012L10.09 13.7501Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

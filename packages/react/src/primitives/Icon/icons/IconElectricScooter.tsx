@@ -26,9 +26,9 @@ export const IconElectricScooter = (props) => {
         />
         <path
           d="M19 12C17.34 12 16 13.34 16 15C16 16.66 17.34 18 19 18C20.66 18 22 16.66 22 15C22 13.34 20.66 12 19 12ZM19 16C18.45 16 18 15.55 18 15C18 14.45 18.45 14 19 14C19.55 14 20 14.45 20 15C20 15.55 19.55 16 19 16Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M11 20H7L13 23V21H17L11 18V20Z" fill="black" />
+        <path d="M11 20H7L13 23V21H17L11 18V20Z" fill="currentColor" />
       </svg>
     </View>
   );

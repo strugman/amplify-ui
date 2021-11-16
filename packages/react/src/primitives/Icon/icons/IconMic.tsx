@@ -26,7 +26,7 @@ export const IconMic = (props) => {
         />
         <path
           d="M17 11C17 13.76 14.76 16 12 16C9.24 16 7 13.76 7 11H5C5 14.53 7.61 17.43 11 17.92V21H13V17.92C16.39 17.43 19 14.53 19 11H17V11Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

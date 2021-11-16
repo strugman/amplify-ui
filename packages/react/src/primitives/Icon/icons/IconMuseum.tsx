@@ -26,7 +26,7 @@ export const IconMuseum = (props) => {
         />
         <path
           d="M10 14L12 17L14 14V18H16V11H14L12 14L10 11H8V18H10V14Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

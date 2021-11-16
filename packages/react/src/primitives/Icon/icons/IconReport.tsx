@@ -26,9 +26,9 @@ export const IconReport = (props) => {
         />
         <path
           d="M12 17C12.5523 17 13 16.5523 13 16C13 15.4477 12.5523 15 12 15C11.4477 15 11 15.4477 11 16C11 16.5523 11.4477 17 12 17Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M11 7H13V14H11V7Z" fill="black" />
+        <path d="M11 7H13V14H11V7Z" fill="currentColor" />
       </svg>
     </View>
   );

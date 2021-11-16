@@ -26,7 +26,7 @@ export const IconSportsFootball = (props) => {
         />
         <path
           d="M14.0997 8.49987L8.49951 14.1001L9.89957 15.5002L15.4998 9.89992L14.0997 8.49987Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

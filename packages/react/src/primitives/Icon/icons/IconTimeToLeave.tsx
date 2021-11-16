@@ -26,11 +26,11 @@ export const IconTimeToLeave = (props) => {
         />
         <path
           d="M7.5 15C8.32843 15 9 14.3284 9 13.5C9 12.6716 8.32843 12 7.5 12C6.67157 12 6 12.6716 6 13.5C6 14.3284 6.67157 15 7.5 15Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M16.5 15C17.3284 15 18 14.3284 18 13.5C18 12.6716 17.3284 12 16.5 12C15.6716 12 15 12.6716 15 13.5C15 14.3284 15.6716 15 16.5 15Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

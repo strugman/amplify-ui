@@ -26,7 +26,7 @@ export const IconHouse = (props) => {
         />
         <path
           d="M10 10H14C14 8.9 13.1 8 12 8C10.9 8 10 8.9 10 10Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

@@ -26,7 +26,7 @@ export const Icon5g = (props) => {
         />
         <path
           d="M3 13H8V15H3V17H8C9.1 17 10 16.1 10 15V13C10 11.9 9.1 11 8 11H5V9H10V7H3V13Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

@@ -26,7 +26,7 @@ export const IconAccountBalanceWallet = (props) => {
         />
         <path
           d="M16 13.5C16.8284 13.5 17.5 12.8284 17.5 12C17.5 11.1716 16.8284 10.5 16 10.5C15.1716 10.5 14.5 11.1716 14.5 12C14.5 12.8284 15.1716 13.5 16 13.5Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

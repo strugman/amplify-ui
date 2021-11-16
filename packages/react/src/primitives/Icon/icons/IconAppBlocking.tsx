@@ -26,7 +26,7 @@ export const IconAppBlocking = (props) => {
         />
         <path
           d="M17 18H7V6H17V7H19V6V5V3C19 1.9 18.1 1 17 1H7C5.9 1 5 1.9 5 3V21C5 22.1 5.9 23 7 23H17C18.1 23 19 22.1 19 21V19V18V17H17V18ZM7 3H17V4H7V3ZM17 21H7V20H17V21Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

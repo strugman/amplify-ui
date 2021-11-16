@@ -23,9 +23,12 @@ export const IconAddBusiness = (props) => {
         <path d="M17 4H2V6H17V4Z" fill="currentColor" />
         <path
           d="M15 17H17V14H18V12L17 7H2L1 12V14H2V20H11V14H15V17ZM9 18H4V14H9V18ZM3.04 12L3.64 9H15.36L15.96 12H3.04Z"
-          fill="black"
+          fill="currentColor"
         />
-        <path d="M23 18H20V15H18V18H15V20H18V23H20V20H23V18Z" fill="black" />
+        <path
+          d="M23 18H20V15H18V18H15V20H18V23H20V20H23V18Z"
+          fill="currentColor"
+        />
       </svg>
     </View>
   );

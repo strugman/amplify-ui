@@ -26,7 +26,7 @@ export const IconArticle = (props) => {
         />
         <path
           d="M14 17H7V15H14V17ZM17 13H7V11H17V13ZM17 9H7V7H17V9Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

@@ -26,7 +26,7 @@ export const IconEmojiPeople = (props) => {
         />
         <path
           d="M15.89 8.11C15.5 7.72 14.83 7 13.53 7C13.32 7 12.11 7 10.99 7C8.24 6.99 6 4.75 6 2H4C4 5.16 6.11 7.84 9 8.71V22H11V16H13V22H15V10.05L18.95 14L20.36 12.59L15.89 8.11Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

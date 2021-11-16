@@ -26,11 +26,11 @@ export const IconLocalCarWash = (props) => {
         />
         <path
           d="M7.5 18C8.32843 18 9 17.3284 9 16.5C9 15.6716 8.32843 15 7.5 15C6.67157 15 6 15.6716 6 16.5C6 17.3284 6.67157 18 7.5 18Z"
-          fill="black"
+          fill="currentColor"
         />
         <path
           d="M16.5 18C17.3284 18 18 17.3284 18 16.5C18 15.6716 17.3284 15 16.5 15C15.6716 15 15 15.6716 15 16.5C15 17.3284 15.6716 18 16.5 18Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

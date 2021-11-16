@@ -26,7 +26,7 @@ export const IconNat = (props) => {
         />
         <path
           d="M23 12L19 9V11H14.95C14.45 5.95 10.19 2 5 2V4C9.42 4 13 7.58 13 12C13 16.42 9.42 20 5 20V22C10.19 22 14.45 18.05 14.95 13H19V15L23 12Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>

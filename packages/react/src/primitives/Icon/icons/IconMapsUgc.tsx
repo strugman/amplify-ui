@@ -28,7 +28,7 @@ export const IconMapsUgc = (props) => {
           fill-rule="evenodd"
           clip-rule="evenodd"
           d="M13 8H11V11H8V13H11V16H13V13H16V11H13V8Z"
-          fill="black"
+          fill="currentColor"
         />
       </svg>
     </View>
